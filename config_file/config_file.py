@@ -1,0 +1,3 @@
+base_url = r'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fadmin.google.com%2Fu%2F2%2Fac%2Fdomains%2Fmanage&followup=https%3A%2F%2Fadmin.google.com%2Fu%2F2%2Fac%2Fdomains%2Fmanage&ifkv=ASKXGp2kzA9nPrXbpIyeqziljk3WN-eoHGFN_CNgIwYOu8u3PTa6zF_rIU0dHg0POWS9udShJZ26&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1190938480%3A1703657885253519&theme=glif'
+user_name = "saksham@tryverifier.in"
+password = "Thedayisgood@1."

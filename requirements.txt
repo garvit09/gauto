@@ -1,0 +1,5 @@
+playwright==1.16.2
+pytest==7.2.5
+pyperclip==1.8.2
+pytest==7.4.3 
+pytest-xdist==3.10.0
